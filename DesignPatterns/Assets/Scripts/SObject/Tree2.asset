@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: Tree2
   m_EditorClassIdentifier: 
   plantName: 'Cold Polkweed '
-  plantThreat: 0
+  plantThreat: 1
   icon: {fileID: 2800000, guid: a31ba862a964f4beba0b8214c6b69d44, type: 3}

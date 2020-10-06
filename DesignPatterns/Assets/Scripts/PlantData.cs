@@ -13,4 +13,8 @@ public class PlantData : ScriptableObject
     private THREAT plantThreat;
     [SerializeField]
     private Texture icon;
+
+    public string PlantName { get => plantName; set => plantName = value; }
+    public THREAT PlantThreat { get => plantThreat; set => plantThreat = value; }
+    public Texture Icon { get => icon; set => icon = value; }
 }
